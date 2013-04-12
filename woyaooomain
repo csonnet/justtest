@@ -1,0 +1,5 @@
+#import web.py
+
+main()
+
+print "test"
